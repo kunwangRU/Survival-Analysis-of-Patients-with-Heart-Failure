@@ -48,7 +48,7 @@
 ## SPAP Plan for Our Project
 ### 1. Goal
 >> Determine the features that can improve the chance of survival for patients with previous heart failure.
-### 2. Dependant variables
+### 2. Dependent variables
 >> Death Event: if the patient survived during the follow-up period. (0: deceased, 1: survived)
 ### 3. Specific Questions
 >> **Q1**: Do the demographic features improve the chance of survival of heart failure patients?\
